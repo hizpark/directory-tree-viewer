@@ -3,12 +3,11 @@
 
 ![License](https://img.shields.io/github/license/hizpark/directory-tree-viewer?style=flat-square)
 ![Latest Version](https://img.shields.io/packagist/v/hizpark/directory-tree-viewer?style=flat-square)
-![PHP Version](https://img.shields.io/packagist/php-v/hizpark/directory-tree-viewer?style=flat-square)
+![CI](https://github.com/hizpark/directory-tree-viewer/actions/workflows/ci.yml/badge.svg?style=flat-square)
 ![Code Style](https://img.shields.io/badge/code_style-PSR--12-lightgrey?style=flat-square)
 ![Static Analysis](https://img.shields.io/badge/static_analysis-PHPStan-blue?style=flat-square)
 ![Tests](https://img.shields.io/badge/tests-PHPUnit-brightgreen?style=flat-square)
 [![codecov](https://codecov.io/gh/hizpark/directory-tree-viewer/branch/main/graph/badge.svg)](https://codecov.io/gh/hizpark/directory-tree-viewer)
-![CI](https://github.com/hizpark/directory-tree-viewer/actions/workflows/ci.yml/badge.svg?style=flat-square)
 
 Render directory structures as tree views in PHP — ideal for CLI tools, logging, or documentation.
 
