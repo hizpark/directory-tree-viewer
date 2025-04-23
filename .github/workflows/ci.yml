@@ -18,8 +18,12 @@ jobs:
       matrix:
         php: ['8.2', '8.3', '8.4']
         include:
+          - php: '8.2'
+            coverage: false
           - php: '8.3'
             coverage: true
+          - php: '8.4'
+            coverage: false
     continue-on-error: ${{ matrix.php != '8.3' }}
 
     steps:
