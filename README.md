@@ -1,8 +1,11 @@
 # Directory Tree Viewer
+
 > Simple and elegant PHP library for visualizing directory tree structure
 
 ![License](https://img.shields.io/github/license/hizpark/directory-tree-viewer?style=flat-square)
 ![Latest Version](https://img.shields.io/packagist/v/hizpark/directory-tree-viewer?style=flat-square)
+![PHP Version](https://img.shields.io/badge/php-8.2--8.4-blue?style=flat-square)
+
 ![CI](https://github.com/hizpark/directory-tree-viewer/actions/workflows/ci.yml/badge.svg?style=flat-square)
 ![Code Style](https://img.shields.io/badge/code_style-PSR--12-lightgrey?style=flat-square)
 ![Static Analysis](https://img.shields.io/badge/static_analysis-PHPStan-blue?style=flat-square)
